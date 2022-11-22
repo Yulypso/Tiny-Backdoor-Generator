@@ -19,6 +19,17 @@ $ git clone https://github.com/Yulypso/Backdoor-Generator.git
 $ cd Backdoor-Generator/src
 ```
 
+## Commands
+
+```sh
+=== Tiny Backdoor Commands ===
+clear: Clear the terminal
+cd <dir>: Change directory
+download <file>: Download a file from remote host
+upload <file>: Upload a file to remote host
+exit: Close the active session
+````
+
 ## Use case
 
 1. Generate a backdoor for LHOST=172.16.198.128 and LPORT=7777 
